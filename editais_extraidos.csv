@@ -1,0 +1,31 @@
+﻿id;titulo;autores;data_listagem;categorias;url
+2610.37655;KPPax: preprocess differentiable kinetic ODE for machine learning in atmospheric chemistry;Wenqing Peng (primeiro autor);2026-10-28;Artificial Intelligence (cs.AI);https://arxiv.org/abs/2610.37655
+2610.37631;What Improves During Pretraining? Tracking Knowledge Acquisition with Point-in-Time Models;Chang Su (primeiro autor);2026-10-28;Artificial Intelligence (cs.AI);https://arxiv.org/abs/2610.37631
+2610.37624;Rare, Relevant, and Still Wrong: How Memory Fails LLM Group Decisions;Anouar Imel (primeiro autor);2026-10-28;Artificial Intelligence (cs.AI);https://arxiv.org/abs/2610.37624
+2610.37585;Timestral;Adrien Petralia (primeiro autor);2026-10-28;Artificial Intelligence (cs.AI);https://arxiv.org/abs/2610.37585
+2610.37571;TeamGym: A Gym for Team Decision-Making by AI Agents with Distributed Information;Chanwoo Park (primeiro autor);2026-10-28;Artificial Intelligence (cs.AI);https://arxiv.org/abs/2610.37571
+2610.37482;From Interaction to Capability: Task Advancement as State and Supervision for GUI Agents;Ziyang Chen (primeiro autor);2026-10-28;Artificial Intelligence (cs.AI);https://arxiv.org/abs/2610.37482
+2610.37461;Concordat: Typed Sessions for LLM Agents;Milad Sikaroudi (primeiro autor);2026-10-28;Artificial Intelligence (cs.AI);https://arxiv.org/abs/2610.37461
+2610.37459;M4Bench: Evaluating Procedural Specification for Clinical EHR Derivation Agents;Hannes Ill (primeiro autor);2026-10-28;Artificial Intelligence (cs.AI);https://arxiv.org/abs/2610.37459
+2610.37422;Beyond the Readout: A Latent Numerical Frame Shared Across Modality and Operation;Oriol Juan Sabater (primeiro autor);2026-10-28;Artificial Intelligence (cs.AI);https://arxiv.org/abs/2610.37422
+2610.37407;Constraining the Commit Boundary: A DIO/ODI-Informed Authorization Guardrail for Agentic Entity Resolution;Daniel Beránek (primeiro autor);2026-10-28;Artificial Intelligence (cs.AI);https://arxiv.org/abs/2610.37407
+2610.37405;Clearing the FoG: Training KG Agents to Retrieve the Evidence Behind Their Answers;Zongyuan Sun (primeiro autor);2026-10-28;Artificial Intelligence (cs.AI);https://arxiv.org/abs/2610.37405
+2610.37375;Agent-Conditioned Routing: Diverse Reasoning Paths Within One Frozen Model;Ananth Kalyanasundaram (primeiro autor);2026-10-28;Artificial Intelligence (cs.AI);https://arxiv.org/abs/2610.37375
+2610.37369;Uncovering Why LLMs Fail: From Internal Mechanisms to Adversarial Reasoning Trajectories;Zirui Ding (primeiro autor);2026-10-28;Artificial Intelligence (cs.AI);https://arxiv.org/abs/2610.37369
+2610.37342;Aligning Institutional Power and Operational Ability;Andrea Marino (primeiro autor);2026-10-28;Artificial Intelligence (cs.AI);https://arxiv.org/abs/2610.37342
+2610.37316;ReForest: Interpretability Meets Reasoning in Isolation Forest;Juyoung Seo (primeiro autor);2026-10-28;Artificial Intelligence (cs.AI);https://arxiv.org/abs/2610.37316
+2610.37281;RPSD: Retrieval-Privileged On-Policy Self-Distillation with Optimal Transport;Dongyue Li (primeiro autor);2026-10-28;Artificial Intelligence (cs.AI);https://arxiv.org/abs/2610.37281
+2610.37243;TCM-DiagCommit: A TCM-SD-Derived Benchmark for Evidence-Conditioned Syndrome Selection and Commitment;Erwei Hou (primeiro autor);2026-10-28;Artificial Intelligence (cs.AI);https://arxiv.org/abs/2610.37243
+2610.37242;Grounding LLM Agents in Business Processes: Process-Aware Knowledge Graphs for Reliable Multi-Step Service Invocation;Saiful Khan (primeiro autor);2026-10-28;Artificial Intelligence (cs.AI);https://arxiv.org/abs/2610.37242
+2610.37237;GraphRAGProv: GraphRAG Meets How-Provenance;Wadie El Amrani (primeiro autor);2026-10-28;Artificial Intelligence (cs.AI);https://arxiv.org/abs/2610.37237
+2610.37201;Does Your Generalist Skill Optimizer Really Incentivize Agentic Tasks? Rethinking Skill Optimization via Bipartite Attribution;Jiawei Zhou (primeiro autor);2026-10-28;Artificial Intelligence (cs.AI);https://arxiv.org/abs/2610.37201
+2610.37169;Rènyi-Regularized Flow-Based Variational Inference for Bayesian Calibration;Exaucè Luweh Adjim Ngarti (primeiro autor);2026-10-28;Artificial Intelligence (cs.AI);https://arxiv.org/abs/2610.37169
+2610.37166;LiveSearch: Questions as Executable Verifier Code for a Live Benchmark of Professional-Source Financial Search Agents;Sinuo Wang (primeiro autor);2026-10-28;Artificial Intelligence (cs.AI);https://arxiv.org/abs/2610.37166
+2610.37161;WorkFactory: Turning Professional Intents into Executable Work for Scalable Agent Training;Ziyang Zeng (primeiro autor);2026-10-28;Artificial Intelligence (cs.AI);https://arxiv.org/abs/2610.37161
+2610.37123;SFE-O: An Ontology for Knowledge-Grounded AI in Supercritical CO2 Biomass Extraction and Fractionation;Thomas Pallet (primeiro autor);2026-10-28;Artificial Intelligence (cs.AI);https://arxiv.org/abs/2610.37123
+2610.37121;Prospector: learning a compact graph traversal policy for scientific reasoning;Haiqian Yang (primeiro autor);2026-10-28;Artificial Intelligence (cs.AI);https://arxiv.org/abs/2610.37121
+2610.37081;OpenGray: a benchmark for evaluating the decisions of radiotherapy planning agents;Humza Nusrat (primeiro autor);2026-10-28;Artificial Intelligence (cs.AI);https://arxiv.org/abs/2610.37081
+2610.37070;Correctness Conditioning as Selection in Chain-of-Thought Faithfulness Evaluation;Yueer Pan (primeiro autor);2026-10-28;Artificial Intelligence (cs.AI);https://arxiv.org/abs/2610.37070
+2610.37045;AI-Assisted Discovery of CNOT Decompositions for Quantum Permutations on Constrained Topologies;Daniele Lizzio Bosco (primeiro autor);2026-10-28;Artificial Intelligence (cs.AI);https://arxiv.org/abs/2610.37045
+2610.37041;Guided-RLVR: Guided Exploration in Reinforcement Learning with Verifiable Rewards;Bo Yang (primeiro autor);2026-10-28;Artificial Intelligence (cs.AI);https://arxiv.org/abs/2610.37041
+2610.36991;SpectRAG: Weighted Chunk Graphs for Token-Budgeted Context Selection in Multi-Hop Retrieval-Augmented Generation;Zafer Sahinoglu (primeiro autor);2026-10-28;Artificial Intelligence (cs.AI);https://arxiv.org/abs/2610.36991
